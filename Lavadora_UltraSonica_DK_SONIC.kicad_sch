@@ -1,0 +1,91 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "425799f8-916a-4e51-980d-839bc13199ff")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 45.72 43.18)
+		(size 29.21 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0460e700-54f8-4876-9634-7acd8b18f784")
+		(property "Sheetname" "Modulo Driver Frecuencia"
+			(at 45.72 42.4684 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "modulo_Driver_frecuencia.kicad_sch"
+			(at 45.72 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Lavadora_UltraSonica_DK_SONIC"
+				(path "/425799f8-916a-4e51-980d-839bc13199ff"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 140.97 41.91)
+		(size 29.21 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ad93e63d-6418-4a0f-9993-efc417caf440")
+		(property "Sheetname" "Modulo Control"
+			(at 140.97 41.1984 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "modulo_control.kicad_sch"
+			(at 140.97 67.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Lavadora_UltraSonica_DK_SONIC"
+				(path "/425799f8-916a-4e51-980d-839bc13199ff"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
